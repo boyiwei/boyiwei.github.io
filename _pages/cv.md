@@ -11,31 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Physics, University of Science and Technology of China, 2023
+* Ph.D in Electrical and Computer Engineering, Princeton University, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.3-2023.6: Research Assistant in [CORSA Lab](https://corsa.eng.uci.edu), University of California, Irvine
+  * Advisor: [Sitao Huang](sitaohuang.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.1-2022.11 Research Assistant in [Sharc Lab](https://sharclab.ece.gatech.edu/), Georgia Institute of Technology
+  * Advisor: [Callie (Cong) Hao](https://sites.gatech.edu/ece-callie/)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
