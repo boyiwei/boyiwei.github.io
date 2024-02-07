@@ -22,13 +22,13 @@ Work experience
 * 2022.1-2022.11 Research Assistant in [Sharc Lab](https://sharclab.ece.gatech.edu/), Georgia Institute of Technology
   * Advisor: [Callie (Cong) Hao](https://sites.gatech.edu/ece-callie/)
   
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+   -->
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -42,4 +42,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
