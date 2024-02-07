@@ -16,9 +16,9 @@ I am broadly interested in AI alignment and other AI safety-related topics. Feel
 
 # Selected Publications and Manuscripts
 
-### [1] Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications [[Website](https://boyiwei.com/alignment-attribution/#attack)], [[Code](https://github.com/boyiwei/alignment-attribution-code)] 
+### [1] Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications [[Website](https://boyiwei.com/alignment-attribution)], [[Code](https://github.com/boyiwei/alignment-attribution-code)] 
 
-**Boyi Wei***, Kaixuan Huang*, Yangsibo Huang*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson
+**Boyi Wei\***, Kaixuan Huang\*, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson
 
 ![image](images/alignment-attribution-main.png)
 
