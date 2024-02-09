@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[![Hits](https://hits.sh/boyiwei.com.svg?label=visitors)](https://hits.sh/boyiwei.com/)
-
 I am a PhD student in the Department of Electrical and Computer Engineering at [Princeton University](https://www.princeton.edu/), advised by Prof. [Peter Henderson](https://www.peterhenderson.co/). Before coming to Princeton, I completed my undergraduate degree in University of Science and Technology of China (USTC).
 
 I am broadly interested in AI alignment and other AI safety-related topics. Feel free to reach out if you are interested in collaborating on research or discussing these topics.
@@ -27,6 +25,8 @@ I am broadly interested in AI alignment and other AI safety-related topics. Feel
 1. We develop methods to identify critical regions that are vital for safety guardrails, and that are disentangled from utility-relevant regions at both the neuron and rank levels.
 2. We find the isolated regions are sparse, comprising about 3% at the parameter level and 2.5% at the rank level. Removing these regions compromises safety without significantly impacting utility, corroborating the inherent brittleness of the model's safety mechanisms.
 3. We show that the model remains vulnerable to low-cost fine-tuning attacks even when modifications to the safety-critical regions are restricted . These findings underscore the urgent need for more robust safety strategies in LLMs.
+
+[![Hits](https://hits.sh/boyiwei.com.svg?label=visitors)](https://hits.sh/boyiwei.com/)
 
 
 
