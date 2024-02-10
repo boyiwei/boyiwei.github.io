@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,9 +27,9 @@ I am broadly interested in AI alignment and other AI safety-related topics. Feel
 3. We show that the model remains vulnerable to low-cost fine-tuning attacks even when modifications to the safety-critical regions are restricted . These findings underscore the urgent need for more robust safety strategies in LLMs.
 
 [![Hits](https://hits.sh/boyiwei.com.svg?label=visitors)](https://hits.sh/boyiwei.com/)
-<!-- 
 
-<a href='https://clustrmaps.com/site/1byh7'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=BRxMw116OpLs6k-l68T-dUZhr9qyQwQX5v1e68CxQjI'/></a> -->
+
+<a href='https://clustrmaps.com/site/1byh7'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=BRxMw116OpLs6k-l68T-dUZhr9qyQwQX5v1e68CxQjI'/></a>
 
 
 
