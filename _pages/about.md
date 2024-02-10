@@ -28,7 +28,6 @@ I am broadly interested in AI alignment and other AI safety-related topics. Feel
 
 [![Hits](https://hits.sh/boyiwei.com.svg?label=visitors)](https://hits.sh/boyiwei.com/)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=BRxMw116OpLs6k-l68T-dUZhr9qyQwQX5v1e68CxQjI&cl=ffffff&w=a"></script>
 
 
 
