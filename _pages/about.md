@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the Department of Electrical and Computer Engineering at [Princeton University](https://www.princeton.edu/), advised by Prof. [Peter Henderson](https://www.peterhenderson.co/). Before coming to Princeton, I completed my undergraduate degree in University of Science and Technology of China (USTC).
 
-I am broadly interested in AI alignment and other AI safety-related topics. Feel free to reach out if you are interested in collaborating on research or discussing these topics.
+I am broadly interested in alignment and other safety-related topics. Feel free to reach out if you are interested in collaborating on research or discussing these topics.
 
 
 # Selected Publications and Manuscripts
