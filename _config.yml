@@ -86,7 +86,6 @@ author:
   location         : "Princeton, NJ"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=sRDckqEAAAAJ&hl=en"
   email            : "wby@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "wei_boyi"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
