@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* 2023.3-2023.6: Research Assistant in [CORSA Lab](https://corsa.eng.uci.edu), University of California, Irvine
+* 2023.3-2023.6: Research Assistant, University of California, Irvine
   * Advisor: [Sitao Huang](https://www.sitaohuang.com)
 
-* 2022.1-2022.11 Research Assistant in [Sharc Lab](https://sharclab.ece.gatech.edu/), Georgia Institute of Technology
+* 2022.1-2022.11 Research Assistant, Georgia Institute of Technology
   * Advisor: [Callie (Cong) Hao](https://sites.gatech.edu/ece-callie/)
   
 <!-- Publications
