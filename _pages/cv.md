@@ -9,18 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Applied Physics, University of Science and Technology of China, 2023
-* Ph.D in Electrical and Computer Engineering, Princeton University, 2028 (expected)
-
-Work experience
-======
-* 2023.3-2023.6: Research Assistant, University of California, Irvine
-  * Advisor: [Sitao Huang](https://www.sitaohuang.com)
-
-* 2022.1-2022.11 Research Assistant, Georgia Institute of Technology
-  * Advisor: [Callie (Cong) Hao](https://sites.gatech.edu/ece-callie/)
+You can find my CV [here](files/Boyi_Wei_s_Resume.pdf).
   
 <!-- Publications
 ======
