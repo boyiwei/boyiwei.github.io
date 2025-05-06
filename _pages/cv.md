@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV [here](files/Boyi_Wei_s_Resume.pdf).
+You can find my CV [here](/files/Boyi_Wei_s_Resume.pdf).
   
 <!-- Publications
 ======
