@@ -19,7 +19,7 @@ I am broadly interested in alignment and other safety-related topics. Feel free 
 
 **Boyi Wei\***, Benedikt Stroebl\*, Jiacen Xu, Joie Zhang, Zhou Li, Peter Henderson
 
-![image](images/dynamic-risk-assessment.png)
+![image](images/dynamic-riskassessment.png)
 
 ### Highlights
 1. We propose a new threat model in which adversaries can spend compute to iteratively improve the capabilities for offensive cybersecurity agents. Even without external assistance, adversaries will still have at least 5 degrees of freedom to modify the agent systems.
