@@ -23,7 +23,7 @@ I am broadly interested in alignment and other safety-related topics. Feel free 
 
 ### Highlights
 1. We propose a new threat model in which adversaries can spend compute to iteratively improve the capabilities for offensive cybersecurity agents. Even without external assistance, adversaries will still have at least 5 degrees of freedom to modify the agent systems.
-2. We show that, even under a minimal compute budget (8 H100 GPU Hours, equivalant to less than 36 USD), adversaries can autonomously improve the agent's cybersecurity capability by over 40\% on the test set of InterCode.
+2. We show that, even under a minimal compute budget (8 H100 GPU Hours, equivalant to less than 36 USD), adversaries can autonomously improve the agent's cybersecurity capability by over 40% on the test set of InterCode.
 3. We underscore that future risk assessment should be dynamic and adaptive, and should take into account the compute budget and degrees of freedom of the adversaries. Otherwise, the risk may be significantly underestimated.
 
 
