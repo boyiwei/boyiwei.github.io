@@ -15,7 +15,20 @@ I am broadly interested in alignment and other safety-related topics. Feel free 
 
 # Selected Publications and Manuscripts
 
-## [1] Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications [[Paper](https://arxiv.org/abs/2402.05162)], [[Website](https://boyiwei.com/alignment-attribution)], [[Code](https://github.com/boyiwei/alignment-attribution-code)] 
+## Dynamic Risk Assessments for Offensive Cybersecurity Agents [[Paper](https://arxiv.org/abs/2505.18384)], [[Code](https://github.com/boyiwei/Dynamic-Risk-Assessment)] 
+
+**Boyi Wei\***, Benedikt Stroebl\*, Jiacen Xu, Joie Zhang, Zhou Li, Peter Henderson
+
+![image](images/dynamic-risk-assessment.png)
+
+### Highlights
+1. We propose a new threat model in which adversaries can spend compute to iteratively improve the capabilities for offensive cybersecurity agents. Even without external assistance, adversaries will still have at least 5 degrees of freedom to modify the agent systems.
+2. We show that, even under a minimal compute budget (8 H100 GPU Hours, equivalant to less than 36 USD), adversaries can autonomously improve the agent's cybersecurity capability by over 40\% on the test set of InterCode.
+3. We underscore that future risk assessment should be dynamic and adaptive, and should take into account the compute budget and degrees of freedom of the adversaries. Otherwise, the risk may be significantly underestimated.
+
+
+
+## Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications [[Paper](https://arxiv.org/abs/2402.05162)], [[Website](https://boyiwei.com/alignment-attribution)], [[Code](https://github.com/boyiwei/alignment-attribution-code)] 
 
 **Boyi Wei\***, Kaixuan Huang\*, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson
 
@@ -27,7 +40,7 @@ I am broadly interested in alignment and other safety-related topics. Feel free 
 3. We show that the model remains vulnerable to low-cost fine-tuning attacks even when modifications to the safety-critical regions are restricted . These findings underscore the urgent need for more robust safety strategies in LLMs.
 
 
-## [2] Evaluating Copyright Takedown Methods for Language Models [[Paper](https://arxiv.org/pdf/2406.18664)], [[Website](https://cotaeval.github.io)], [[Code](https://github.com/boyiwei/CoTaEval)] [[Dataset](https://huggingface.co/datasets/boyiwei/CoTaEval)], [[Leaderboard](https://huggingface.co/spaces/boyiwei/CoTaEval_leaderboard)] 
+## Evaluating Copyright Takedown Methods for Language Models [[Paper](https://arxiv.org/pdf/2406.18664)], [[Website](https://cotaeval.github.io)], [[Code](https://github.com/boyiwei/CoTaEval)] [[Dataset](https://huggingface.co/datasets/boyiwei/CoTaEval)], [[Leaderboard](https://huggingface.co/spaces/boyiwei/CoTaEval_leaderboard)] 
 
 **Boyi Wei\***, Weijia Shi\*, Yangsibo Huang\*, Noah A. Smith, Chiyuan Zhang, Luke Zettlemoyer, Kai Li, Peter Henderson
 
@@ -41,12 +54,13 @@ I am broadly interested in alignment and other safety-related topics. Feel free 
 [![Hits](https://hits.sh/boyiwei.com.svg?label=visitors)](https://hits.sh/boyiwei.com/)
 
 # News & Talks
-1.  [11/2024] 🎉 Our Paper: *An Adversarial Perspective on Machine Unlearning for AI Safety* has been selected as the **Best Paper** of [SoLaR @ NeurIPS 2024](https://solar-neurips.github.io/)! See you in Vancouver 🇨🇦.
-2.  [09/2024] 🎉 Our Paper: *Evaluating Copyright Takedown Methods for Language Models* has been accepted to NeurIPS 2024 Datasets and Benchmarks! See you in Vancouver 🇨🇦.
-3.  [08/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) @ [Techbeat](https://www.techbeat.net/talk-info?id=895) (in Chinese).
-4. [07/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) and [CoTaEval](https://arxiv.org/pdf/2406.18664) @ Google.
-5. [05/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been accepted to ICML 2024! See you in Vienna 🇦🇹.
-6. [03/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been selected as the **Best Paper** of [SeT LLM @ ICLR 2024](https://set-llm.github.io/)!
+1.  [01/2025] 🎉 Our Paper: *On Evaluating the Durability of Safeguards for Language Models* has been accepted to ICLR 2025!
+2.  [11/2024] 🎉 Our Paper: *An Adversarial Perspective on Machine Unlearning for AI Safety* has been selected as the **Best Paper** of [SoLaR @ NeurIPS 2024](https://solar-neurips.github.io/)! See you in Vancouver 🇨🇦.
+3.  [09/2024] 🎉 Our Paper: *Evaluating Copyright Takedown Methods for Language Models* has been accepted to NeurIPS 2024 Datasets and Benchmarks! See you in Vancouver 🇨🇦.
+4.  [08/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) @ [Techbeat](https://www.techbeat.net/talk-info?id=895) (in Chinese).
+5. [07/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) and [CoTaEval](https://arxiv.org/pdf/2406.18664) @ Google.
+6. [05/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been accepted to ICML 2024! See you in Vienna 🇦🇹.
+7. [03/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been selected as the **Best Paper** of [SeT LLM @ ICLR 2024](https://set-llm.github.io/)!
 
 
 
