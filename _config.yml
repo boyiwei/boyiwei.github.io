@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=sRDckqEAAAAJ&hl=en"
-  email            : "wby@princeton.edu"
+  email            : "wby[at]princeton[dot]edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
