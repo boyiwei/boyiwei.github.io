@@ -54,13 +54,14 @@ I am broadly interested in alignment and other safety-related topics. Feel free 
 [![Hits](https://hits.sh/boyiwei.com.svg?label=visitors)](https://hits.sh/boyiwei.com/)
 
 # News & Talks
-1.  [01/2025] 🎉 Our Paper: *On Evaluating the Durability of Safeguards for Language Models* has been accepted to ICLR 2025!
-2.  [11/2024] 🎉 Our Paper: *An Adversarial Perspective on Machine Unlearning for AI Safety* has been selected as the **Best Paper** of [SoLaR @ NeurIPS 2024](https://solar-neurips.github.io/)! See you in Vancouver 🇨🇦.
-3.  [09/2024] 🎉 Our Paper: *Evaluating Copyright Takedown Methods for Language Models* has been accepted to NeurIPS 2024 Datasets and Benchmarks! See you in Vancouver 🇨🇦.
-4.  [08/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) @ [Techbeat](https://www.techbeat.net/talk-info?id=895) (in Chinese).
-5. [07/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) and [CoTaEval](https://arxiv.org/pdf/2406.18664) @ Google.
-6. [05/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been accepted to ICML 2024! See you in Vienna 🇦🇹.
-7. [03/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been selected as the **Best Paper** of [SeT LLM @ ICLR 2024](https://set-llm.github.io/)!
+1.  [10/2025] 🎉 Our Paper: *Dynamic Risk Assessments for Offensive Cybersecurity Agents* has been accepted to NeurIPS 2025! See you in San Diego 🇺🇸.
+2.  [01/2025] 🎉 Our Paper: *On Evaluating the Durability of Safeguards for Language Models* has been accepted to ICLR 2025!
+3.  [11/2024] 🎉 Our Paper: *An Adversarial Perspective on Machine Unlearning for AI Safety* has been selected as the **Best Paper** of [SoLaR @ NeurIPS 2024](https://solar-neurips.github.io/)! See you in Vancouver 🇨🇦.
+4.  [09/2024] 🎉 Our Paper: *Evaluating Copyright Takedown Methods for Language Models* has been accepted to NeurIPS 2024 Datasets and Benchmarks! See you in Vancouver 🇨🇦.
+5.  [08/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) @ [Techbeat](https://www.techbeat.net/talk-info?id=895) (in Chinese).
+6. [07/2024] 🎙️ Gave a talk about [assessing the brittleness of safety alignment](https://arxiv.org/abs/2402.05162) and [CoTaEval](https://arxiv.org/pdf/2406.18664) @ Google.
+7. [05/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been accepted to ICML 2024! See you in Vienna 🇦🇹.
+8. [03/2024] 🎉 Our Paper: *Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications* has been selected as the **Best Paper** of [SeT LLM @ ICLR 2024](https://set-llm.github.io/)!
 
 
 
