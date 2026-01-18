@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate in the Department of Electrical and Computer Engineering at [Princeton University](https://www.princeton.edu/), advised by Prof. [Peter Henderson](https://www.peterhenderson.co/). Before coming to Princeton, I completed my undergraduate study in [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
 
-I am broadly interested in self-improving agents and alignment-related directions. Feel free to reach out if you are interested in collaborating on research or discussing these topics.
+I am broadly interested in self-evolving agents and alignment-related directions. Feel free to reach out if you are interested in collaborating on research or discussing these topics.
 
 
 # Selected Publications and Manuscripts
