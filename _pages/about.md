@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Department of Electrical and Computer Engineering at <img src="/images/princeton-logo.svg" alt="Princeton" style="height: 1em; vertical-align: middle; margin-right: -0.1em; margin-left: -0.1em; margin-top: -0.1em;"> [Princeton University](https://www.princeton.edu/), advised by Prof. [Peter Henderson](https://www.peterhenderson.co/). Before coming to Princeton, I completed my undergraduate study in <img src="/images/ustc-logo.svg" alt="USTC" style="height: 1em; vertical-align: middle; margin-right: -0.1em; margin-left: -0.1em; margin-top: -0.1em;"> [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
+I am a PhD candidate in the Department of Electrical and Computer Engineering at <img src="/images/princeton-logo.svg" alt="Princeton" style="height: 1em; vertical-align: middle; margin-right: -0.1em; margin-left: -0.1em; margin-top: -0.1em;"> [Princeton University](https://www.princeton.edu/), advised by Prof. [Peter Henderson](https://www.peterhenderson.co/). Previously, I completed my undergraduate studies at <img src="/images/ustc-logo.svg" alt="USTC" style="height: 1em; vertical-align: middle; margin-right: -0.1em; margin-left: -0.1em; margin-top: -0.1em;"> [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC).
 
 I am broadly interested in self-evolving agents and alignment-related directions. Feel free to reach out if you are interested in collaborating on research or discussing these topics.
 
