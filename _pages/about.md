@@ -16,12 +16,16 @@ I am broadly interested in self-evolving agents and alignment-related directions
 # Selected Publications and Manuscripts
 
 ## Dynamic Risk Assessments for Offensive Cybersecurity Agents
+<div class="pub-entry" markdown="1">
 <a href="https://arxiv.org/abs/2505.18384" class="btn btn--info btn--small">Paper</a>
 <a href="https://github.com/boyiwei/Dynamic-Risk-Assessment" class="btn btn--primary btn--small">Code</a> 
 
 <span style="color: rgb(101, 171, 198); font-weight: bold; text-decoration: underline;">Boyi Wei*</span>, Benedikt Stroebl\*, Jiacen Xu, Joie Zhang, Zhou Li, Peter Henderson
 
+*NeurIPS 2025 Datasets and Benchmarks*
+
 ![image](images/dynamic-riskassessment.png)
+</div>
 
 ### Highlights
 1. We propose a new threat model in which adversaries can spend compute to iteratively improve the capabilities for offensive cybersecurity agents. Even without external assistance, adversaries will still have at least 5 degrees of freedom to modify the agent systems.
@@ -31,13 +35,17 @@ I am broadly interested in self-evolving agents and alignment-related directions
 
 
 ## Assessing the Brittleness of Safety Alignment via Pruning and Low-Rank Modifications
+<div class="pub-entry" markdown="1">
 <a href="https://arxiv.org/abs/2402.05162" class="btn btn--info btn--small">Paper</a>
 <a href="https://boyiwei.com/alignment-attribution" class="btn btn--success btn--small">Website</a>
 <a href="https://github.com/boyiwei/alignment-attribution-code" class="btn btn--primary btn--small">Code</a> 
 
 <span style="color: rgb(101, 171, 198); font-weight: bold; text-decoration: underline;">Boyi Wei*</span>, Kaixuan Huang\*, Yangsibo Huang\*, Tinghao Xie, Xiangyu Qi, Mengzhou Xia, Prateek Mittal, Mengdi Wang, Peter Henderson
 
+*ICML 2024*
+
 ![image](images/alignment-attribution-main.png)
+</div>
 
 ### Highlights
 1. We develop methods to identify critical regions that are vital for safety guardrails, and that are disentangled from utility-relevant regions at both the neuron and rank levels.
@@ -46,6 +54,7 @@ I am broadly interested in self-evolving agents and alignment-related directions
 
 
 ## Evaluating Copyright Takedown Methods for Language Models
+<div class="pub-entry" markdown="1">
 <a href="https://arxiv.org/pdf/2406.18664" class="btn btn--info btn--small">Paper</a>
 <a href="https://cotaeval.github.io" class="btn btn--success btn--small">Website</a>
 <a href="https://github.com/boyiwei/CoTaEval" class="btn btn--primary btn--small">Code</a>
@@ -54,7 +63,10 @@ I am broadly interested in self-evolving agents and alignment-related directions
 
 <span style="color: rgb(101, 171, 198); font-weight: bold; text-decoration: underline;">Boyi Wei*</span>, Weijia Shi\*, Yangsibo Huang\*, Noah A. Smith, Chiyuan Zhang, Luke Zettlemoyer, Kai Li, Peter Henderson
 
+*NeurIPS 2024 Datasets and Benchmarks*
+
 ![image](images/cotaeval.png)
+</div>
 
 ### Highlights
 1. We propose an evaluation suite to evaluate the feasibility and side effects of copyright takedown methods for language models.
