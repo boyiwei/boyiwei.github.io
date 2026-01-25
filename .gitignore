@@ -1,3 +1,6 @@
 _site/
 .DS_Store
+CLAUDE.md
+.ruby-version
+Gemfile.lock
 

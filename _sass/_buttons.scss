@@ -21,9 +21,20 @@
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  box-shadow: 0 2px 4px rgba(mix(#000, $primary-color, 40%), 0.5);
+  transition: all 0.15s ease-in-out;
+  position: relative;
+  top: 0;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    background-color: mix(#000, $primary-color, 10%);
+    box-shadow: 0 4px 8px rgba(mix(#000, $primary-color, 40%), 0.5);
+    top: -1px;
+  }
+
+  &:active {
+    box-shadow: 0 1px 2px rgba(mix(#000, $primary-color, 40%), 0.5);
+    top: 1px;
   }
 
   .icon {
@@ -69,9 +80,11 @@
 
   &--info {
     background-color: $info-color;
+    box-shadow: 0 2px 4px rgba(mix(#000, $info-color, 40%), 0.5);
 
     &:hover {
-      background-color: mix(#000, $info-color, 20%);
+      background-color: mix(#000, $info-color, 10%);
+      box-shadow: 0 4px 8px rgba(mix(#000, $info-color, 40%), 0.5);
     }
   }
 
@@ -79,9 +92,11 @@
 
   &--warning {
     background-color: $warning-color;
+    box-shadow: 0 2px 4px rgba(mix(#000, $warning-color, 40%), 0.5);
 
     &:hover {
-      background-color: mix(#000, $warning-color, 20%);
+      background-color: mix(#000, $warning-color, 10%);
+      box-shadow: 0 4px 8px rgba(mix(#000, $warning-color, 40%), 0.5);
     }
   }
 
@@ -89,9 +104,11 @@
 
   &--success {
     background-color: $success-color;
+    box-shadow: 0 2px 4px rgba(mix(#000, $success-color, 40%), 0.5);
 
     &:hover {
-      background-color: mix(#000, $success-color, 20%);
+      background-color: mix(#000, $success-color, 10%);
+      box-shadow: 0 4px 8px rgba(mix(#000, $success-color, 40%), 0.5);
     }
   }
 
@@ -99,9 +116,11 @@
 
   &--danger {
     background-color: $danger-color;
+    box-shadow: 0 2px 4px rgba(mix(#000, $danger-color, 40%), 0.5);
 
     &:hover {
-      background-color: mix(#000, $danger-color, 20%);
+      background-color: mix(#000, $danger-color, 10%);
+      box-shadow: 0 4px 8px rgba(mix(#000, $danger-color, 40%), 0.5);
     }
   }
 
@@ -148,6 +167,16 @@
   /* small button */
 
   &--small {
-    font-size: $type-size-7;
+    font-size: $type-size-8;
+    padding: 0.25em 0.6em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+
+    &:hover {
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+
+    &:active {
+      box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    }
   }
 }
