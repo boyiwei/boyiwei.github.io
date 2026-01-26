@@ -3,6 +3,9 @@ main:
   - title: "CV"
     url: /files/Boyi_Wei_s_Resume.pdf
 
+  - title: "Misc"
+    url: /misc/
+
   # - title: "Publications"
   #   url: /publications/
 
