@@ -39,3 +39,39 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom checkbox styling */
+input[type="checkbox"] {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 2px solid #555;
+  border-radius: 3px;
+  background-color: #fff;
+  cursor: pointer;
+  vertical-align: middle;
+  position: relative;
+  margin-right: 6px;
+}
+
+input[type="checkbox"]:checked {
+  background-color: #2ecc71; /* Green background for checked */
+  border-color: #27ae60;
+}
+
+input[type="checkbox"]:checked::after {
+  content: '✓';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+input[type="checkbox"]:not(:checked) {
+  background-color: #f8f8f8;
+  border-color: #ccc;
+}
