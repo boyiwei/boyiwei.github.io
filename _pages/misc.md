@@ -22,6 +22,6 @@ author_profile: true
     - [ ] Front Lever
     - [ ] Planche
 
-- I am a fan of music. I am an amateur player of piano and saxophone.
+- I love music. I am an amateur player of piano and saxophone.
 - I am a lego fan. I managed to finish a 3600 pieces lego set (42083 Bugatti Chiron) in 3 days.
 
