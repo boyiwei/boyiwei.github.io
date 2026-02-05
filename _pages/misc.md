@@ -23,5 +23,5 @@ author_profile: true
     - [ ] Planche
 
 - I love music. I am an amateur player of piano and saxophone.
-- I am a lego fan. Below are my collections: 10220, 10391, 21355, 40817, 42055, 42056, 42083, 42107, 42115
+- I am a lego fan. Below are my collections: 10220, 10391, 21355, 40648, 40817, 42055, 42056, 42083, 42107, 42115
 
